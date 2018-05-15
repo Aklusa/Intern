@@ -1,0 +1,11 @@
+body{
+  background-image: url("assets/bg_image.jpg")
+}
+
+ul>li{
+  color: red;
+}
+
+.logo{
+  float:left;
+}
